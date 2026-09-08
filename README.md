@@ -49,7 +49,8 @@ This allows the suppliers to be compared using several factors rather than choos
 
 The analysis produced the following overall supplier comparison:
 
-<img src="visualisations/supplier_ranking.png" alt="Supplier Ranking">
+<img src="Visualisations/supplier_ranking.png" alt="Supplier Ranking">
+
 ## Tools
 
 * Python
