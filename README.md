@@ -1,6 +1,4 @@
-# aerospace-supplier-selection
-Data driven aerospace supplier evaluation and risk analysis using python
-# Aerospace Supplier Selection
+
 
 ## About the Project
 
@@ -46,7 +44,12 @@ Higher scores represent better performance.
 I used a weighted scoring approach to combine the five criteria into an overall supplier score.
 
 This allows the suppliers to be compared using several factors rather than choosing a supplier based on cost or one other measure alone.
+## Results
 
+
+The analysis produced the following overall supplier comparison:
+
+![Supplier Ranking](Visualisations/supplier_ranking.png)
 ## Tools
 
 * Python
