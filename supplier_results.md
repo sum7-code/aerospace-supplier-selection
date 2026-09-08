@@ -47,7 +47,7 @@ Although NovaAero did not have the highest cost score, its strong performance ac
 
 This analysis demonstrates how a multi criteria decision making approach can support supplier selection rather than relying on cost alone.
 
-For an aerospace supply chain, supplier selection should consider the trade-off between cost, quality, delivery reliability, operational risk and sustainability.
+For an aerospace supply chain, supplier selection should consider the trade off between cost, quality, delivery reliability, operational risk and sustainability.
 
 ## Methodology
 
